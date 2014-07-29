@@ -84,3 +84,9 @@
 [submodule "bluepill"]
 	path = bluepill
 	url = https://github.com/cookbooks/bluepill.git
+[submodule "opscode-mysql"]
+	path = opscode-mysql
+	url = https://github.com/miketheman/opscode-mysql.git
+[submodule "ngnix"]
+	path = ngnix
+	url = https://github.com/miketheman/nginx.git
