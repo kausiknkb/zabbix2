@@ -88,3 +88,6 @@
 [submodule "ngnix"]
 	path = ngnix
 	url = https://github.com/miketheman/nginx.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
