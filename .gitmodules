@@ -1,0 +1,86 @@
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/onehealth-cookbooks/apache2
+[submodule "zabbix"]
+	path = zabbix
+	url = https://github.com/nightw/zabbix.git
+[submodule "yum-epel"]
+	path = yum-epel
+	url = https://github.com/opscode-cookbooks/yum-epel.git
+[submodule "ufw"]
+	path = ufw
+	url = https://github.com/opscode-cookbooks/ufw.git
+[submodule "yum"]
+	path = yum
+	url = https://github.com/opscode-cookbooks/yum.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/hw-cookbooks/postgresql.git
+[submodule "php-fpm"]
+	path = php-fpm
+	url = https://github.com/Fapiko/php-fpm.git
+[submodule "ark"]
+	path = ark
+	url = https://github.com/burtlo/ark.git
+[submodule "java"]
+	path = java
+	url = https://github.com/agileorbit-cookbooks/java.git
+[submodule "oracle-instantclient"]
+	path = oracle-instantclient
+	url = https://github.com/cla-rce/oracle-instantclient.git
+[submodule "php"]
+	path = php
+	url = https://github.com/opscode-cookbooks/php.git
+[submodule "iptables"]
+	path = iptables
+	url = https://github.com/opscode-cookbooks/iptables.git
+[submodule "pacman"]
+	path = pacman
+	url = https://github.com/PAC-man/pacman.git
+[submodule "xfs"]
+	path = xfs
+	url = https://github.com/opscode-cookbooks/xfs.git
+[submodule "mysql-chef_gem"]
+	path = mysql-chef_gem
+	url = https://github.com/opscode-cookbooks/mysql-chef_gem.git
+[submodule "xml"]
+	path = xml
+	url = https://github.com/opscode-cookbooks/xml.git
+[submodule "logrotate"]
+	path = logrotate
+	url = https://github.com/cookbooks/logrotate.git
+[submodule "windows"]
+	path = windows
+	url = https://github.com/opscode-cookbooks/windows.git
+[submodule "chef_handler"]
+	path = chef_handler
+	url = https://github.com/opscode-cookbooks/chef_handler.git
+[submodule "iis"]
+	path = iis
+	url = https://github.com/opscode-cookbooks/iis.git
+[submodule "7-zip"]
+	path = 7-zip
+	url = https://github.com/Blackavar/7-zip.git
+[submodule "chef-sugar"]
+	path = chef-sugar
+	url = https://github.com/sethvargo/chef-sugar.git
+[submodule "database"]
+	path = database
+	url = https://github.com/opscode-cookbooks/database.git
+[submodule "chocolatey"]
+	path = chocolatey
+[submodule "freebsd"]
+	path = freebsd
+	url = https://github.com/opscode-cookbooks/freebsd.git
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "runit"]
+	path = runit
+	url = https://github.com/cookbooks/runit.git
+[submodule "bluepill"]
+	path = bluepill
+	url = https://github.com/cookbooks/bluepill.git
