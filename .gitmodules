@@ -91,3 +91,9 @@
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "chef-zabbix2.0"]
+	path = chef-zabbix2.0
+	url = https://github.com/uchiunyo/chef-zabbix2.0.git
+[submodule "lab-chef-zabbix"]
+	path = lab-chef-zabbix
+	url = https://github.com/team-lab/lab-chef-zabbix.git
